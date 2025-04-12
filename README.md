@@ -8,9 +8,9 @@ Bienvenue dans le simulateur de quai de métro en GO ! Ce projet vise à reprodu
 
 ## FRONTEND
 
-Disponible dans le dossier FRONT-END. 
+Disponible dans le dossier /front-end. 
 
-Pour son utilisation, il faut d'abord lancer le BACKEND comme expliqué ci-dessous, puis suivre la procédure du FRONTEND (disponible dans le README du dossier).
+Pour son utilisation, il faut d'abord lancer le back-end comme expliqué ci-dessous, puis suivre la procédure du front-end (disponible dans le README du dossier).
 
 Le FRONTEND et le BACKEND doivent donc, bien évidemment, être lancés en parallèle.
 
